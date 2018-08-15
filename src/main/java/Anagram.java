@@ -1,5 +1,3 @@
-package com.company.Eulers;
-
 import java.util.Arrays;
 
 public class Anagram {
